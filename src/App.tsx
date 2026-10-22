@@ -198,8 +198,8 @@ function Hero(){
 
             <h1 style={{fontFamily:"'Playfair Display',serif",lineHeight:1.08,color:T.espresso}}
               className="text-5xl md:text-6xl xl:text-[5.5rem] font-extrabold mb-4">
-              Where Beauty<br/>
-              <span className="gold-text italic">Becomes Art.</span>
+              Creating<br/>
+              <span className="gold-text italic">timeless brides.</span>
             </h1>
 
             <p style={{fontFamily:"'Great Vibes',cursive",fontSize:'2rem',color:T.gold,lineHeight:1.2}} className="mb-5">
@@ -353,10 +353,10 @@ function About(){
 
 /* ── SERVICES ── */
 const SERVICES=[
-  {icon:'💄',t:'HD Makeup',             p:'₹15,000', d:'A refined, high-definition makeup look with a smooth, camera-ready finish for your special occasion.'},
-  {icon:'💍',t:'Engagement Makeup',     p:'₹8,000',  d:'Luminous, soft and perfectly polished makeup for your engagement celebration.'},
-  {icon:'🌸',t:'Mehendi & Haldi',       p:'₹4,000',  d:'Fresh, dewy and vibrant makeup for your mehendi and haldi ceremonies.'},
-  {icon:'💨',t:'Airbrush Makeup',       p:'₹18,000', d:'A lightweight airbrush finish for an even, flawless look that photographs beautifully.'},
+  {icon:'💄',t:'HD Makeup',             p:'₹25,000', d:'A refined, high-definition makeup look with a smooth, camera-ready finish for your special occasion.'},
+  {icon:'💍',t:'Engagement Makeup',     p:'₹12,000',  d:'Luminous, soft and perfectly polished makeup for your engagement celebration.'},
+  {icon:'🌸',t:'Mehendi & Haldi',       p:'₹8,000',  d:'Fresh, dewy and vibrant makeup for your mehendi and haldi ceremonies.'},
+  {icon:'💨',t:'Celebrity Makeup',      p:'₹28,000', d:'A lightweight airbrush finish for an even, flawless look that photographs beautifully.'},
 ]
 function Services(){
   return(
